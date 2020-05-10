@@ -711,7 +711,11 @@ vertical-align: middle;
 }
 
 .testimonial-img img {
-  border-radius:50% !important;
+  border-radius:100%!important;
+}
+.testimonial-img1 img {
+  border-radius:50%;
+  max-width: 25%;
 }
  
 
