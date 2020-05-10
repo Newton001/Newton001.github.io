@@ -1,10 +1,4 @@
-/*
-  Theme Name: Qoni  HTML Template
-  Author: tjahyoahmad@yahoo.co.id
-  Support: admin@gmail.com
-  Description: Resume  HTML5 template.
-  Version: 1.0
-*/
+
 
 /* CSS Index
 -----------------------------------
@@ -717,7 +711,7 @@ vertical-align: middle;
 }
 
 .testimonial-img img {
-  border-radius:100% !important;
+  border-radius:50% !important;
 }
  
 
