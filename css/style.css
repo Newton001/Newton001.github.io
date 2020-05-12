@@ -61,7 +61,7 @@ a:hover,
 }
 a,
 button {
-	color: #1c07d8;
+	color: #1e0ad6;
 	outline: medium none;
 }
 input:focus,textarea:focus,:focus{outline: 0}
@@ -343,7 +343,7 @@ font-weight: 300;
   margin-top: 90px;
 }
 .slider-content p {
-  color: #d8ee0f;
+  color: #e6f512;
   font-weight: 700;
   font-size: 35px;
   margin-bottom: 30px;
