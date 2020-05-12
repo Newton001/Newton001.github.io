@@ -61,7 +61,7 @@ a:hover,
 }
 a,
 button {
-	color: #ff9010;
+	color: #1c07d8;
 	outline: medium none;
 }
 input:focus,textarea:focus,:focus{outline: 0}
@@ -337,15 +337,15 @@ font-weight: 300;
 
 .slider-content h1 {
   color: #333333;
-  font-size: 90px;
-  font-weight: 700;
+  font-size: 50px;
+  font-weight: 500;
   margin-bottom: 30px;
   margin-top: 90px;
 }
 .slider-content p {
-  color: #80066b;
+  color: #d8ee0f;
   font-weight: 700;
-  font-size: 25px;
+  font-size: 35px;
   margin-bottom: 30px;
   line-height: 30px;
   font-style: italic;
@@ -712,6 +712,10 @@ vertical-align: middle;
 
 .testimonial-img img {
   border-radius:100%!important;
+}
+.testimonial-img2 img {
+  border-radius:70%!important;
+  max-width: 35%;
 }
 .testimonial-img1 img {
   border-radius:50%;
