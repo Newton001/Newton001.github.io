@@ -36,7 +36,10 @@ dependencies:
   cupertino_icons: ^1.0.8
   flutter_animate: ^4.2.0
   chewie: ^1.6.0
-  video_player: ^2.7.0
+  video_player: ^2.9.5
+  flutter_localizations:
+    sdk: flutter
+  intl: 0.19.0
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
@@ -68,6 +71,13 @@ flutter:
   #   - images/a_dot_burr.jpeg
   #   - images/a_dot_ham.jpeg
       - assets/images/newton.jpg
+      - assets/images/newton_1.jpg
+      - assets/images/medical_imaging.jpg
+      - assets/images/signal_processing.png
+      - assets/images/software.png
+      - assets/images/embedded.jpg
+      - assets/images/Video_Demo.mp4
+
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images
