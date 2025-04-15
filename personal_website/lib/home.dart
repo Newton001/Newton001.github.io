@@ -306,7 +306,7 @@ class _HomePageState extends State<HomePage> with SingleTickerProviderStateMixin
       builder: (context, child) {
         return Scaffold(
           extendBodyBehindAppBar: true,
-          drawer: const CustomDrawer(),
+          //drawer: const CustomDrawer(),
           appBar: AppBar(
             backgroundColor: Colors.transparent,
             elevation: 0,
