@@ -30,6 +30,7 @@ jobs:
       - name: Install Dependencies and Build Web
         run: |
           cd personal_website
+          flutter clean
           flutter pub get
           flutter build web
 
