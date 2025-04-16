@@ -78,6 +78,8 @@ flutter:
       - assets/images/embedded.jpg
       - assets/images/Video_Demo.mp4
       - assets/images/logo.png
+      - assets/images/design1.png
+      - assets/images/design2.png
 
 
   # An image asset can refer to one or more resolution-specific "variants", see

@@ -17,8 +17,7 @@ class _ContactPageState extends State<ContactPage> {
   final List<String> mediaItems = [
     'assets/images/design1.png',
     'assets/images/design2.png',
-    'assets/videos/demo1.mp4',
-    'assets/videos/demo2.mp4',
+    'assets/videos/Video_Demo.mp4',
   ];
 
   final List<VideoPlayerController?> _videoControllers = [];
@@ -83,9 +82,9 @@ class _ContactPageState extends State<ContactPage> {
       });
 
       final url = Uri.parse('https://api.emailjs.com/api/v1.0/email/send');
-      const serviceId = 'your_service_id';
-      const templateId = 'your_template_id';
-      const userId = 'your_user_id';
+      const serviceId = 'service_viwtgbz';
+      const templateId = 'template_axx1sqp';
+      const userId = 'QYsiXXKTd_3noXnAk';
 
       final response = await http.post(
         url,
