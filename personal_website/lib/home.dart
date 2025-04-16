@@ -204,7 +204,7 @@ class _HomePageState extends State<HomePage> with SingleTickerProviderStateMixin
               children: [
                 _skillCard('Medical Imaging', 'assets/images/medical_imaging.jpg'),
                 _skillCard('Embedded Systems', 'assets/images/embedded.jpg'),
-                _skillCard('Signal Processing', 'assets/images/signal_processing.png'),
+                _skillCard('Signal Processing', 'assets/images/signals.jpg'),
                 _skillCard('Software Development', 'assets/images/software.png'),
               ],
             ),
