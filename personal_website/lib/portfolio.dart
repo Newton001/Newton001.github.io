@@ -34,7 +34,7 @@ class _PortfolioPageState extends State<PortfolioPage> {
       title: 'RFID Gym Management System',
       description: 'A complete gym entry system with RFID, SD logging, and LCD feedback.',
       repoUrl: 'https://github.com/Newton001/RFID-Gym-Access-System',
-      mediaPath: 'assets/videos/rfid_gym.mp4',
+      mediaPath: 'assets/images/Saleae_logic_analyzer_ouput.png',
       category: 'Embedded',
     ),
     Project(
@@ -55,7 +55,7 @@ class _PortfolioPageState extends State<PortfolioPage> {
       title: 'Rust Embedded on STM32',
       description: 'Firmware using Rust RTIC + HAL for STM32 boards.',
       repoUrl: 'https://github.com/Newton001/Rust-Embedded-STM32-Microcontrollers',
-      mediaPath: 'assets/images/rust_stm32.png',
+      mediaPath: 'assets/images/saleae_logic_analyzer_ouput.png',
       category: 'Rust',
     ),
   ];

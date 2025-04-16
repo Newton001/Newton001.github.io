@@ -80,6 +80,9 @@ flutter:
       - assets/images/logo.png
       - assets/images/design1.png
       - assets/images/design2.png
+      - assets/images/Saleae_logic_analyzer_ouput.png
+      - assets/images/saleae_logic_analyzer_ouput.png
+      - assets/images/volume_calc.png
 
 
   # An image asset can refer to one or more resolution-specific "variants", see
